@@ -1,0 +1,18 @@
+Yes beginning to learn a lot.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would be easier to go back to any previous versions if something stopped working abruptly or if any old feature is required to be enabled back.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+manually gives better control
+
+How can you use the commands git log and git diff to view the history of files?
+use git log to view the history of commits and use git diff to view differences between two commits.
+
+How might using version control make you more confident to make changes that could break something?
+Because I know I could always fix it easily by reverting to previous version and identify the line which introduced the bug using the git diff.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+To try version control
